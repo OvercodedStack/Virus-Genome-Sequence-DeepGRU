@@ -25,6 +25,11 @@ One particular problem about this package is performance, DeepGRU isn't remarkab
 
 Unfortunately because of lack of time at the time of the class and even now, most of the code results I did to give the results show in the report had to be done by hand, that means that if there were more layers or less batch size used, I had to manually go into the code and change it. I haven't had the code to change its implementation yet so this is going to have to stay as it. 
 
+# Special thanks to:
+
+Austin Mathew for giving me an idea how to use DeepGRU
+Dr. Haiyan Hu for giving the opportunity to learn
+Mehran Maghoumi for putting together a usable DeepGRU implementation
 
 # References
 
