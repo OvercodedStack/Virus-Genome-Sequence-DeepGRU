@@ -27,9 +27,9 @@ Unfortunately because of lack of time at the time of the class and even now, mos
 
 # Special thanks to:
 
-Austin Mathew for giving me an idea how to use DeepGRU
-Dr. Haiyan Hu for giving the opportunity to learn
-Mehran Maghoumi for putting together a usable DeepGRU implementation
+- Austin Mathew for giving me an idea how to use DeepGRU
+- Dr. Haiyan Hu for giving the opportunity to learn
+- Mehran Maghoumi for putting together a usable DeepGRU implementation
 
 # References
 
