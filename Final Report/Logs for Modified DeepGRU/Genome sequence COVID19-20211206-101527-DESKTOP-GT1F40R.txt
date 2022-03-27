@@ -1,0 +1,256 @@
+Epoch: [0]
+       [Avg Loss]          0.939055
+       [Training]   Prec@1 59.735466 Max 59.735466
+       [Avg Loss]          0.562302
+       [Validation] Prec@1 87.559075 Max 87.559075
+Epoch: [1]
+       [Avg Loss]          0.546433
+       [Training]   Prec@1 83.292165 Max 83.292165
+       [Avg Loss]          0.400367
+       [Validation] Prec@1 87.559075 Max 87.559075
+Epoch: [2]
+       [Avg Loss]          0.453215
+       [Training]   Prec@1 85.229492 Max 85.229492
+       [Avg Loss]          0.385426
+       [Validation] Prec@1 87.559075 Max 87.559075
+Epoch: [3]
+       [Avg Loss]          0.431518
+       [Training]   Prec@1 85.535865 Max 85.535865
+       [Avg Loss]          0.380110
+       [Validation] Prec@1 87.559075 Max 87.559075
+Epoch: [4]
+       [Avg Loss]          0.422943
+       [Training]   Prec@1 85.652191 Max 85.652191
+       [Avg Loss]          0.378517
+       [Validation] Prec@1 87.559075 Max 87.559075
+Epoch: [5]
+       [Avg Loss]          0.417388
+       [Training]   Prec@1 85.713465 Max 85.713465
+       [Avg Loss]          0.375826
+       [Validation] Prec@1 87.559075 Max 87.559075
+Epoch: [6]
+       [Avg Loss]          0.408680
+       [Training]   Prec@1 85.745060 Max 85.745060
+       [Avg Loss]          0.374440
+       [Validation] Prec@1 87.493773 Max 87.559075
+Epoch: [7]
+       [Avg Loss]          0.403609
+       [Training]   Prec@1 85.767559 Max 85.767559
+       [Avg Loss]          0.368869
+       [Validation] Prec@1 87.515750 Max 87.559075
+Epoch: [8]
+       [Avg Loss]          0.401645
+       [Training]   Prec@1 85.783835 Max 85.783835
+       [Avg Loss]          0.368628
+       [Validation] Prec@1 87.559075 Max 87.559075
+Epoch: [9]
+       [Avg Loss]          0.400767
+       [Training]   Prec@1 85.797239 Max 85.797239
+       [Avg Loss]          0.366137
+       [Validation] Prec@1 87.559075 Max 87.559075
+Epoch: [10]
+       [Avg Loss]          0.399506
+       [Training]   Prec@1 85.801547 Max 85.801547
+       [Avg Loss]          0.366989
+       [Validation] Prec@1 87.559075 Max 87.559075
+Epoch: [11]
+       [Avg Loss]          0.399141
+       [Training]   Prec@1 85.805856 Max 85.805856
+       [Avg Loss]          0.371369
+       [Validation] Prec@1 87.559075 Max 87.559075
+Epoch: [12]
+       [Avg Loss]          0.398608
+       [Training]   Prec@1 85.804898 Max 85.805856
+       [Avg Loss]          0.365308
+       [Validation] Prec@1 87.559075 Max 87.559075
+Epoch: [13]
+       [Avg Loss]          0.398246
+       [Training]   Prec@1 85.807292 Max 85.807292
+       [Avg Loss]          0.363817
+       [Validation] Prec@1 87.559075 Max 87.559075
+Epoch: [14]
+       [Avg Loss]          0.397591
+       [Training]   Prec@1 85.806813 Max 85.807292
+       [Avg Loss]          0.363907
+       [Validation] Prec@1 87.559075 Max 87.559075
+Epoch: [15]
+       [Avg Loss]          0.397305
+       [Training]   Prec@1 85.806334 Max 85.807292
+       [Avg Loss]          0.367037
+       [Validation] Prec@1 87.559075 Max 87.559075
+Epoch: [16]
+       [Avg Loss]          0.396801
+       [Training]   Prec@1 85.806334 Max 85.807292
+       [Avg Loss]          0.365580
+       [Validation] Prec@1 87.559075 Max 87.559075
+Epoch: [17]
+       [Avg Loss]          0.396072
+       [Training]   Prec@1 85.806813 Max 85.807292
+       [Avg Loss]          0.363286
+       [Validation] Prec@1 87.559075 Max 87.559075
+Epoch: [18]
+       [Avg Loss]          0.395393
+       [Training]   Prec@1 85.806334 Max 85.807292
+       [Avg Loss]          0.362098
+       [Validation] Prec@1 87.559075 Max 87.559075
+Epoch: [19]
+       [Avg Loss]          0.394259
+       [Training]   Prec@1 85.804898 Max 85.807292
+       [Avg Loss]          0.362108
+       [Validation] Prec@1 87.559075 Max 87.559075
+Epoch: [20]
+       [Avg Loss]          0.393113
+       [Training]   Prec@1 85.808249 Max 85.808249
+       [Avg Loss]          0.363237
+       [Validation] Prec@1 87.559075 Max 87.559075
+Epoch: [21]
+       [Avg Loss]          0.391667
+       [Training]   Prec@1 85.802026 Max 85.808249
+       [Avg Loss]          0.357951
+       [Validation] Prec@1 87.559075 Max 87.559075
+Epoch: [22]
+       [Avg Loss]          0.390611
+       [Training]   Prec@1 85.803462 Max 85.808249
+       [Avg Loss]          0.364380
+       [Validation] Prec@1 87.559075 Max 87.559075
+Epoch: [23]
+       [Avg Loss]          0.389335
+       [Training]   Prec@1 85.793888 Max 85.808249
+       [Avg Loss]          0.355440
+       [Validation] Prec@1 87.559075 Max 87.559075
+Epoch: [24]
+       [Avg Loss]          0.387740
+       [Training]   Prec@1 85.794845 Max 85.808249
+       [Avg Loss]          0.365937
+       [Validation] Prec@1 87.565772 Max 87.565772
+Predicting Results
+       [Avg Loss]          0.196635
+       [Validation] Prec@1 99.983253 Max 99.983253
+Epoch: [0]
+       [Avg Loss]          0.981634
+       [Training]   Prec@1 56.374464 Max 56.374464
+       [Avg Loss]          0.567715
+       [Validation] Prec@1 87.540238 Max 87.540238
+Epoch: [1]
+       [Avg Loss]          0.553461
+       [Training]   Prec@1 83.008770 Max 83.008770
+       [Avg Loss]          0.403396
+       [Validation] Prec@1 87.559075 Max 87.559075
+Epoch: [2]
+       [Avg Loss]          0.452742
+       [Training]   Prec@1 85.238109 Max 85.238109
+       [Avg Loss]          0.385917
+       [Validation] Prec@1 87.559075 Max 87.559075
+Epoch: [3]
+       [Avg Loss]          0.435005
+       [Training]   Prec@1 85.456399 Max 85.456399
+       [Avg Loss]          0.382058
+       [Validation] Prec@1 87.559075 Max 87.559075
+Epoch: [4]
+       [Avg Loss]          0.424651
+       [Training]   Prec@1 85.648840 Max 85.648840
+       [Avg Loss]          0.379118
+       [Validation] Prec@1 87.559075 Max 87.559075
+Epoch: [5]
+       [Avg Loss]          0.419637
+       [Training]   Prec@1 85.718252 Max 85.718252
+       [Avg Loss]          0.377529
+       [Validation] Prec@1 87.559075 Max 87.559075
+Epoch: [6]
+       [Avg Loss]          0.414525
+       [Training]   Prec@1 85.747932 Max 85.747932
+       [Avg Loss]          0.372857
+       [Validation] Prec@1 87.511354 Max 87.559075
+Epoch: [7]
+       [Avg Loss]          0.407395
+       [Training]   Prec@1 85.764687 Max 85.764687
+       [Avg Loss]          0.378719
+       [Validation] Prec@1 87.531866 Max 87.559075
+Epoch: [8]
+       [Avg Loss]          0.402746
+       [Training]   Prec@1 85.771867 Max 85.771867
+       [Avg Loss]          0.369558
+       [Validation] Prec@1 87.493355 Max 87.559075
+Epoch: [9]
+       [Avg Loss]          0.401041
+       [Training]   Prec@1 85.777612 Max 85.777612
+       [Avg Loss]          0.368374
+       [Validation] Prec@1 87.511354 Max 87.559075
+Epoch: [10]
+       [Avg Loss]          0.400407
+       [Training]   Prec@1 85.784314 Max 85.784314
+       [Avg Loss]          0.364815
+       [Validation] Prec@1 87.552377 Max 87.559075
+Epoch: [11]
+       [Avg Loss]          0.399332
+       [Training]   Prec@1 85.800111 Max 85.800111
+       [Avg Loss]          0.366026
+       [Validation] Prec@1 87.559075 Max 87.559075
+Epoch: [12]
+       [Avg Loss]          0.399270
+       [Training]   Prec@1 85.800111 Max 85.800111
+       [Avg Loss]          0.365550
+       [Validation] Prec@1 87.559075 Max 87.559075
+Epoch: [13]
+       [Avg Loss]          0.398383
+       [Training]   Prec@1 85.807770 Max 85.807770
+       [Avg Loss]          0.365707
+       [Validation] Prec@1 87.559075 Max 87.559075
+Epoch: [14]
+       [Avg Loss]          0.397882
+       [Training]   Prec@1 85.804419 Max 85.807770
+       [Avg Loss]          0.363176
+       [Validation] Prec@1 87.559075 Max 87.559075
+Epoch: [15]
+       [Avg Loss]          0.397614
+       [Training]   Prec@1 85.807770 Max 85.807770
+       [Avg Loss]          0.368730
+       [Validation] Prec@1 87.559075 Max 87.559075
+Epoch: [16]
+       [Avg Loss]          0.397246
+       [Training]   Prec@1 85.808249 Max 85.808249
+       [Avg Loss]          0.369497
+       [Validation] Prec@1 87.559075 Max 87.559075
+Epoch: [17]
+       [Avg Loss]          0.396419
+       [Training]   Prec@1 85.806813 Max 85.808249
+       [Avg Loss]          0.364815
+       [Validation] Prec@1 87.559075 Max 87.559075
+Epoch: [18]
+       [Avg Loss]          0.395751
+       [Training]   Prec@1 85.808728 Max 85.808728
+       [Avg Loss]          0.362108
+       [Validation] Prec@1 87.559075 Max 87.559075
+Epoch: [19]
+       [Avg Loss]          0.394869
+       [Training]   Prec@1 85.805856 Max 85.808728
+       [Avg Loss]          0.360141
+       [Validation] Prec@1 87.559075 Max 87.559075
+Epoch: [20]
+       [Avg Loss]          0.393474
+       [Training]   Prec@1 85.804898 Max 85.808728
+       [Avg Loss]          0.358981
+       [Validation] Prec@1 87.559075 Max 87.559075
+Epoch: [21]
+       [Avg Loss]          0.392731
+       [Training]   Prec@1 85.802505 Max 85.808728
+       [Avg Loss]          0.360689
+       [Validation] Prec@1 87.559075 Max 87.559075
+Epoch: [22]
+       [Avg Loss]          0.390814
+       [Training]   Prec@1 85.801068 Max 85.808728
+       [Avg Loss]          0.362825
+       [Validation] Prec@1 87.559075 Max 87.559075
+Epoch: [23]
+       [Avg Loss]          0.389633
+       [Training]   Prec@1 85.800590 Max 85.808728
+       [Avg Loss]          0.355251
+       [Validation] Prec@1 87.552796 Max 87.559075
+Epoch: [24]
+       [Avg Loss]          0.388337
+       [Training]   Prec@1 85.793409 Max 85.808728
+       [Avg Loss]          0.354759
+       [Validation] Prec@1 87.553842 Max 87.559075
+Predicting Results
+       [Avg Loss]          0.122322
+       [Validation] Prec@1 99.924637 Max 99.924637
